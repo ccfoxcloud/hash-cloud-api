@@ -48,8 +48,7 @@
    - 用户进入**交易页面前端**时，调用 [登陆接口](https://github.com/ccfoxcloud/hash-cloud-api/blob/master/doc/api.md#%e5%ad%90%e8%b4%a6%e5%8f%b7%e7%99%bb%e5%bd%95)为用户在 我们的系统 登陆
 
 ## 对接示意图
-
-![对接示意图](https://www.processon.com/view/link/5e41133de4b0cffec6deafb3)
+https://www.processon.com/view/link/5e41133de4b0cffec6deafb3
 
 ## 如何对接
 
