@@ -1,4 +1,4 @@
-# **_欢迎来到 ccfox 算力云项目，[线上 Demo](https://mhashcloud.ccfox.com)_**
+# **_欢迎来到 ccfox 算力云项目，[线上 Demo](https://mhashcloud.ccfox.com)_**，近期会开放Demo，若参考可先下载CCFOX App参考(https://mmm.ccfox.co/download)_**
 
 只需一周，拥有专属于您的算力交易功能
 
